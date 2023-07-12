@@ -6,5 +6,6 @@
         int nr2 = 2;
 
         Console.WriteLine(nr1 + nr2);
+        Console.WriteLine(nr1 * nr2);
     }
 }
